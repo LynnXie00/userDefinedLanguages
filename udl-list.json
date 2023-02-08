@@ -618,6 +618,15 @@
 			"homepage": "http://www.dailydoseofexcel.com/archives/2010/09/29/formula-editor-in-notepad/"
 		},
 		{
+			"id-name": "Excel_multicolor_for_bright_themes_byLynnXie",
+			"display-name": "Excel multicolor for bright themes",
+			"version": "1.0.0",
+			"repository": "https://github.com/LynnXie00/NotepadPlusPlusExcelSyntaxHighlighter/blob/main/README.md",
+			"description": "A user defined lauguage for Notepad ++ to highlight the Excel formulas in a bright theme, with different types of formulas colored differently.",
+			"author": "Lynn Xie",
+			"homepage": "https://github.com/LynnXie00"
+		},
+		{
 			"id-name": "Fsharp_byJamesJensen",
 			"display-name": "F#",
 			"version": "Sat, 20 Apr 2013 13:33:45 GMT",
